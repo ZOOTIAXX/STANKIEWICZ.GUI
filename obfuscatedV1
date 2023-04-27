@@ -1,5 +1,5 @@
 local Notification = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Notifications/Script.lua"))()
-Notification.newNotification("EmilHook - zotiax#0001", "Whitelisted!", "Error")
+Notification.newNotification("EmilHook - zotiax#0001", "Whitelisted", "Error")
 
 
 
